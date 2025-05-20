@@ -1,7 +1,7 @@
 # 🧮 Datatypes-Complex Number Creation in Python
 
-## NAME : Mitran R
-## REG NO:212224040192
+## NAME : Shyam Kumar S
+## REG NO:212224040315
 ## 🎯 Aim
 To write a Python program that reads two integers, creates a complex number using them, and then prints the complex number along with its real and imaginary parts.
 
